@@ -13,7 +13,7 @@ When I entered the IT world, I immediately liked it Frontend Development and tha
 *   ✉️  You can contact me at [bobamihajlovic123@gmail.com](mailto:bobamihajlovic123@gmail.com)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on every projects which includes Frontend Development.
-*   ⚡  In a free time I love doing projects, I watch TV shows and movies.### Skills<p align="left">
+*   ⚡  In a free time I love doing projects, I watch TV shows and movies.<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
