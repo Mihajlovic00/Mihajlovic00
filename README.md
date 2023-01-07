@@ -1,7 +1,7 @@
 Hi 👋 My name is Slobodan Mihajlović
 ====================================
 
-Web Developer
+Frontend Developer
 -------------
 
 I am 22 years old passionate Frontend Developer from Serbia.
