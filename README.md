@@ -6,7 +6,7 @@ Frontend Developer
 
 I am 22 years old passionate Frontend Developer from Serbia.
 I'm studying at University Singidunum in Novi Sad, Serbia. 
-When I entered the IT world, I immediately liked it Frontend Development and that's my goal to achieve, to become a Frontend Developer.
+When I entered the IT world, I immediately liked Frontend Development and was my goal to achieve, to become a Frontend Developer.
 
 *   🌍  I'm based in Novi Sad, Serbia
 *   🖥️  One of my projects [This link](http://dreamy-quokka-9f9118.netlify.app)
