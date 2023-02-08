@@ -11,7 +11,7 @@ I'm studying at University Singidunum in Novi Sad, Serbia.
 When I entered the IT world, I immediately liked Frontend Development and that was my goal to achieve, to become a Frontend Developer.
 
 *   🌍  I'm based in Novi Sad, Serbia
-*   🖥️  One of my projects [This link](http://dreamy-quokka-9f9118.netlify.app)
+*   🖥️  One of my projects [This link](http://mihajlovicportfolio.netlify.app)
 *   ✉️  You can contact me at [bobamihajlovic123@gmail.com](mailto:bobamihajlovic123@gmail.com)
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on every projects which includes Frontend Development.
