@@ -6,14 +6,14 @@ My name is Slobodan Mihajlović
 Frontend Developer
 -------------
 
-I am 22 years old passionate Frontend Developer from Serbia.
+I am 23 years old passionate Frontend Developer from Serbia.
 I'm studying at University Singidunum in Novi Sad, Serbia. 
 When I entered the IT world, I immediately liked Frontend Development and that was my goal to achieve, to become a Frontend Developer.
 
 *   🌍  I'm based in Novi Sad, Serbia
 *   🖥️  You can check my portfolio at [This link](http://mihajlovicportfolio.netlify.app)
 *   ✉️  You can contact me at [bobamihajlovic123@gmail.com](mailto:bobamihajlovic123@gmail.com)
-*   🧠  I'm learning JavaScript and Vue.js
+*   🧠  I'm learning JavaScript, Vue.js and Laravel.
 *   🤝  I'm open to collaborating on every projects which includes Frontend Development.
 *   ⚡  In a free time I love doing projects, watching TV shows and movies.<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
