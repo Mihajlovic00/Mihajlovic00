@@ -6,7 +6,7 @@ My name is Slobodan Mihajlović
 Frontend Developer
 -------------
 
-I am 23 years old passionate Frontend Developer from Serbia.
+I am 25 years old passionate Frontend Developer from Serbia.
 I'm studying at University Singidunum in Novi Sad, Serbia. 
 When I entered the IT world, I immediately liked Frontend Development and that was my goal to achieve, to become a Frontend Developer.
 
